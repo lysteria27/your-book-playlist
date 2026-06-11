@@ -135,7 +135,10 @@ book-to-playlist/
 │       └── spotify_client.py    # Spotify Recommendations API
 └── tests/
 ```
-
+## Currently working on:
+- **Gathering training data** to make the emotion model to spotify feature mapping more robust.
+- **Trainable weight matrix** to better learn the feature mapping. Kaggle Goodreads dataset has mood shelves, from which keywords can be used to search for Spotify playlist names.
+Goodreads shelf labels → matched Spotify playlists → (emotion vector, audio features) pairs → fit Ridge regression → learned matrix
 ---
 
 ## Tech stack
