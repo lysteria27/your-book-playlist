@@ -1,4 +1,4 @@
-# 📚🎵 Book to Playlist
+# 📚🎵 Your Book Playlist
 
 > Give it a book. Get a playlist.
 
